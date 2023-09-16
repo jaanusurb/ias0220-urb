@@ -1,2 +1,15 @@
 Tere, see on uue kursuse git repositooriumi test-fail.
 kell 21.06 16.09.2023
+Kursus koosneb 9 osast>
+1. Setup and basic knowlage - no submission
+2. Robot Kinematics and URDF due to 22.09.2023 submission
+3. Introduction to ROS2. publisher, subscriber, nodesm topics, roslaunch, RViz and teleop  29.09.2023 2 + quizz
+4. Kinematics continued, autonomy. Kinematiks with ROS tools. 6.10.2023 3 -quizz. Due submission 13.10.2023
+5. Machine vision. 4-quizz 20.10.2023
+6. Data vizualization, sensor programming. Submission sensor and data vizualization in ROS 5+quizz 27.10.2023
+7. Robot control: PID controller. Position and orientation control of your differential drive robot. 6+quizz
+8. Mapping and mamming algorithms. Submission of position and orientation control of your differential drive robot 17.11.2023
+9. Path planning. Mapping and mapping algorithms + path planning 7+quizz 24.11.2023
+10. Turtlebot. 1.12.2023 8+quizz
+11. Turtlebot. 8.12.2023
+12. // 9+quizz 15.12.2023
